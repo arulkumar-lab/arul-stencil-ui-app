@@ -1,8 +1,8 @@
 {
-  "name": "stencil-starter-project-name",
+  "name": "arul-stencil-ui-app",
   "private": true,
-  "version": "0.0.1",
-  "description": "Stencil App Starter",
+  "version": "1.0.0",
+  "description": "Stencil UI App Starter",
   "scripts": {
     "build": "stencil build",
     "start": "stencil build --dev --watch --serve",
@@ -11,7 +11,7 @@
     "generate": "stencil generate"
   },
   "dependencies": {
-    "@stencil/core": "^1.3.3",
+    "@stencil/core": "1.8.1",
     "@stencil/router": "^1.0.1"
   },
   "license": "MIT"
